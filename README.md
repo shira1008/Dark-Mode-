@@ -6,12 +6,12 @@ By adding event listenr on click. by clicking the button its toggle a dark-theme
 changing the btn's text, and saving the data in the local storage.
 
 
-##JS files:
- -data.js
+## JS files:
+ - data.js
 
 Contains object(articles) that contains the website content, instead of creating 4 different articles in HTML, 
 created one by using js(in app.js) that depends on the objects length.
 
--app.js
+- app.js
 
 Contains the Event listener, change text , saving in local storage , articles using the data from data.js and moment libary for the date.
