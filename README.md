@@ -15,3 +15,8 @@ created one by using js(in app.js) that depends on the objects length.
 - app.js
 
 Contains the Event listener, change text , saving in local storage , articles using the data from data.js and moment libary for the date.
+
+
+
+** click on the gif to see live site **
+   <a href="https://dark-mode-shira.netlify.app/"><img src='https://ik.imagekit.io/mtbrfqmmh/_Dark_Mode_-_Google_Chrome__2022-09-23_15-08-59_XjbKLeExV.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663935070482' ></a>
