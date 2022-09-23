@@ -1,7 +1,7 @@
 # Dark-Mode
 Changing to dark-mode by click, using an object of data for the websites content, using moment library for the date 
 
- ##Event listener 
+ ###Event listener 
  
  On click, by clicking the button its toggle a dark-theme class,
 changing the btn's text, and saving the data in the local storage.
