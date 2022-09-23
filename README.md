@@ -18,10 +18,6 @@ Contains the Event listener, change text , saving in local storage , articles us
 
 
 
-
-
-
-
-
+</br>
 
    <a href="https://dark-mode-shira.netlify.app/"><img src='https://ik.imagekit.io/mtbrfqmmh/_Dark_Mode_-_Google_Chrome__2022-09-23_15-08-59_XjbKLeExV.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1663935070482' height = "400"></a>
